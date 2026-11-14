@@ -1,2 +1,11 @@
-# climate-science-learnning
-My journey learning scientific computing and climate science
+# Climate Science Learning
+
+I am learning scientific computing
+and atmospheric science.
+
+## Topics
+
+- Python
+- Climate modelling
+- Data analysis
+- Indian monsoon
